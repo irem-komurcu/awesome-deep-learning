@@ -96,7 +96,9 @@ In all the interviews, there were many questions about whether I understood the 
 
 Python is an essential programming language for Data Scientist positions. If you can read the data, can you actively use Numpy, Pandas, and Scikitlearn libraries to answer and analyze their questions?
 
-*You can find the article where [I listed the resources for the Python programming language here](https://iremkomurcu.medium.com/python-%C3%B6%C4%9Frenenler-i%CC%87%C3%A7in-kaynak-%C3%B6nerileri-82485fa07e0e).*
+*You can find the article where [I listed the resources for the Python programming language here](https://iremkomurcu.medium.com/python-%C3%B6%C4%9Frenenler-i%CC%87%C3%A7in-kaynak-%C3%B6nerileri-82485fa07e0e).* [TR]
+
+![Python Öğrenenler İçin Kaynak Önerileri](https://github.com/irem-komurcu/awesome-deep-learning/blob/main/media/python_ogrenenler_%C4%B1c%C4%B1n_kaynak_onerileri.png)
 
 Reading, analyzing, shaping, and preprocessing data is very important for Data Science. That’s why it is a default request to understand various data with the programming language.
 
@@ -104,7 +106,9 @@ Although SQL is not asked in every interview, it is a required skill from time t
 
 R is a programming language not asked because I have no experience, but it came up in Data Science interviews.
 
-*You can find my article here, where [I list the resources you can use to learn programming languages and](https://iremkomurcu.medium.com/algoritma-ve-programlama-dili-%C3%B6%C4%9Frenenler-i%C3%A7in-kaynak-%C3%B6nerileri-29a66d34dfee) improve your algorithm skills.*
+*You can find my article here, where [I list the resources you can use to learn programming languages and](https://iremkomurcu.medium.com/algoritma-ve-programlama-dili-%C3%B6%C4%9Frenenler-i%C3%A7in-kaynak-%C3%B6nerileri-29a66d34dfee) improve your algorithm skills.* [TR]
+
+![Algoritma ve Programlama Dili Öğrenenler için Kaynak Önerileri](https://github.com/irem-komurcu/awesome-deep-learning/blob/main/media/algoritma_ve_programlama_dili_ogrenenler_icin_kaynak_onerileri.png)
 
 **Cloud Experience: Google Cloud, AWS, and more**
 
@@ -112,7 +116,7 @@ Cloud experience was a subject that I mentioned during my application, which is 
 
 In Data Science studies, work is mainly done on the cloud, not locally, for data density, model complexity, and installation costs. Therefore, having a good command of working with notebooks, knowing Anaconda products, and having information about Cloud technologies' services is essential. Most of the time, using Cloud tools rather than rewriting a project significantly reduces costs. Cloud products are very useful not only in terms of hardware but also in terms of tools.
 
-Therefore, entering Data Science interviews with knowledge of Cloud products and experience will put you ahead if you can.
+Therefore, entering Data Science interviews with knowledge of Cloud products and experience will put you ahead.
 
 **Unexpected Questions**
 

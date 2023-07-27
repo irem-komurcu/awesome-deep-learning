@@ -6,6 +6,12 @@ To help you apply Deep Learning effectively, we will delve into practical consid
 
 With this repo, you can find supplementary materials, code examples, and additional resources. Repo <b>will update with new titles and subjects</b>. I attribute this repo as <b>Version 0.1</b>
 
+- [Say Hi to Deep Learning](https://github.com/irem-komurcu/awesome-deep-learning/tree/main#say-hi-to-deep-learning)
+    - [Why Deep?](https://github.com/irem-komurcu/awesome-deep-learning/blob/main/README.md#why-deep)
+    - [Machine Learning Umbrella and Deep Learning Relationship](https://github.com/irem-komurcu/awesome-deep-learning/tree/main#machine-learning-umbrella-and-deep-learning-relationship)
+- [AI Interviews](https://github.com/irem-komurcu/awesome-deep-learning#ai-interviews)
+    - [Technical Interview Questions](https://github.com/irem-komurcu/awesome-deep-learning#technical-interview-questions)
+
 # Say Hi to Deep Learning
 
 ## Why Deep?

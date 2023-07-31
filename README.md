@@ -4,7 +4,9 @@ This repo is designed to provide a comprehensive and accessible introduction to 
 
 To help you apply Deep Learning effectively, we will delve into practical considerations such as data preprocessing, model evaluation, and hyperparameter tuning. We will also discuss the ethical implications and challenges associated with Deep Learning, ensuring you understand the field holistically.
 
-With this repo, you can find supplementary materials, code examples, and additional resources. Repo <b>will update with new titles and subjects</b>. I attribute this repo as <b>Version 0.1</b>
+With this repo, you can find supplementary materials, code examples, and additional resources. Repo <b>will update with new titles and subjects</b>. 
+
+#### This repo will be updated with Verison 0.1 this month 
 
 - [Say Hi to Deep Learning](https://github.com/irem-komurcu/awesome-deep-learning/tree/main#say-hi-to-deep-learning)
     - [Why Deep?](https://github.com/irem-komurcu/awesome-deep-learning/blob/main/README.md#why-deep)
